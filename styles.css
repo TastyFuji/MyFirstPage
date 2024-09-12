@@ -10,7 +10,7 @@
     font-size: 50px;
 
 }
-.container {
+#container {
 
     width: 90%;
     height: auto;
@@ -18,7 +18,7 @@
     margin-right: auto;
 
 }
-.textbox {
+#textbox {
 
     width: 80%;
     height: auto;
