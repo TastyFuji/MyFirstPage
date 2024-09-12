@@ -1,0 +1,20 @@
+#centerobj {
+
+    text-align: center;
+    font-weight: bold;
+    
+}
+#introduction {
+
+    color: blue;
+    font-size: 50px;
+
+}
+#text-body {
+
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bold;
+
+
+}
