@@ -10,11 +10,19 @@
     font-size: 50px;
 
 }
-#text-body {
+.container {
 
+    width: 90%;
+    height: auto;
     margin-left: auto;
     margin-right: auto;
-    font-weight: bold;
 
+}
+.textbox {
+
+    width: 80%;
+    height: auto;
+    margin: auto;
+    font-weight: bold;
 
 }
